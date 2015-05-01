@@ -1,0 +1,3 @@
+javascripts:
+  specs:
+    - spec/cipher_spec.js
