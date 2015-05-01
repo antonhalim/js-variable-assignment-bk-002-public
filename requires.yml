@@ -1,3 +1,5 @@
 javascripts:
+  files:
+    - lib/variableAssignment.js
   specs:
-    - spec/cipher_spec.js
+    - spec/variableAssignment.spec.js
